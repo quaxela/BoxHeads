@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: e5569bc37b13d944db10b8d3a9e4f247
+timeCreated: 1432035115
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: menuelements_0
+    21300002: menuelements_1
+    21300004: menuelements_2
+    21300006: menuelements_4
+    21300008: menuelements_6
+    21300010: menuelements_7
+    21300012: menuelements_9
+    21300014: menuelements_10
+    21300016: menuelements_11
+    21300018: menuelements_3
+    21300020: menuelements_5
+    21300022: menuelements_8
+    21300024: menuelements_12
+    21300026: menuelements_13
+    21300028: menuelements_14
+    21300030: menuelements_15
+    21300032: menuelements_16
+    21300034: menuelements_17
+    21300036: menuelements_18
+    21300038: menuelements_19
+    21300040: menuelements_20
+    21300042: menuelements_21
+    21300044: menuelements_22
+    21300046: menuelements_23
+    21300048: menuelements_24
+    21300050: menuelements_25
+    21300052: menuelements_26
+    21300054: menuelements_27
+    21300056: menuelements_28
+    21300058: menuelements_29
+    21300060: menuelements_30
+    21300062: menuelements_31
+    21300064: menuelements_32
+    21300066: menuelements_33
+    21300068: menuelements_34
+    21300070: menuelements_35
+    21300072: menuelements_36
+    21300074: menuelements_37
+    21300076: menuelements_38
+    21300078: menuelements_39
+    21300080: menuelements_40
+    21300082: menuelements_41
+    21300084: menuelements_42
+    21300086: menuelements_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: menuelements_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1932
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1925
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1929
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1931
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1920
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1930
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_9
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1931
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_10
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1923
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_11
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1915
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_3
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1931
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_5
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1923
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_8
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1917
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_12
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1911
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_13
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1903
+        width: 64
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1765
+        width: 136
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1757
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1749
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1749
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1461
+        width: 273
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1461
+        width: 264
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_20
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1763
+        width: 136
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 920
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 901
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 905
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 890
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_25
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 897
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_26
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 891
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_27
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 916
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_28
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 886
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 769
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 747
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 732
+        width: 94
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 741
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_33
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 751
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_34
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 752
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_35
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 744
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 607
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 598
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 580
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 582
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_40
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 590
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_42
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 23
+        width: 470
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuelements_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 579
+        width: 67
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
